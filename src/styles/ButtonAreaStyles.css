@@ -1,0 +1,38 @@
+.outerDiv
+{
+    background-color: #006699;
+    color: #fff;
+    height: 400px;
+    width: 600px;
+    margin: 0px auto;
+    padding: 5px;
+}
+.leftDiv
+{
+    background-color: #efefef;
+    color: #000;
+    height: 400px;
+    width: 70%;
+    float: left;
+}
+
+.leftDiv.buttonStyle {
+    height: 25%;
+    width: 33.33%;
+    font-size: 40px
+}
+
+.rightDiv
+{
+    background-color: #efefef;
+    color: #000;
+    height: 400px;
+    width: 29%;
+    float: right;
+}	
+
+.rightDiv.buttonStyle {
+    height: 20%;
+    width: 100%;
+    font-size: 30px
+}
